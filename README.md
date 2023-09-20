@@ -1,5 +1,5 @@
 👋Greetings! I'm @aparthakur6. <br>
-🌱Currently, I'm immersed in learning data structures and algorithms, striving to deepen my knowledge.<br.
+🌱Currently, I'm immersed in learning data structures and algorithms, striving to deepen my knowledge.<br>
 🎾In my free time, I'm an avid enthusiast of both tennis and cycling.<br>
 📫Don't hesitate to connect with me on <a href="https://www.linkedin.com/in/aparthakur/">LinkedIn</a>. Let's chat!
 
