@@ -1,7 +1,7 @@
-- 👋 Hi there! I’m @aparthakur6.
-- 🌱 I’m currently learning data structures and algorithms.
-- - 👀 My hobbies include playing tennis and cycling.
-- 📫 You can reach me on <a href="https://www.linkedin.com/in/aparthakur/">LinkedIn</a>.
+👋Greetings! I'm @aparthakur6.
+🌱Currently, I'm immersed in learning data structures and algorithms, striving to deepen my knowledge.
+🎾In my free time, I'm an avid enthusiast of both tennis and cycling.
+📫Don't hesitate to connect with me on <a href="https://www.linkedin.com/in/aparthakur/">LinkedIn</a>. Let's chat!
 
 <!---
 aparthakur6/aparthakur6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
